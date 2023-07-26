@@ -21,7 +21,7 @@ What he should've done is using the information that we were provided about the 
 detecting changes but he didn't and he also applied some confusing calculation on data imported incorrectly.
 
 ---
-## <font color = maroon> IMPORTANT SIDE NOTE: </font>
+## <font color = "maroon"> IMPORTANT SIDE NOTE: </font>
 I tried to complete this project by myself some years later in Python but the same processing produces different results. I couldn't figure out wether
 the problem is in how data is read from binary files or in the display functions. I couldn't find any mention of this discrepancy in any online forum
 and eventually I had to give up on that.
