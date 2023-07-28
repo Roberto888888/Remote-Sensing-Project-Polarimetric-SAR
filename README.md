@@ -13,8 +13,8 @@ and discuss and compare the results, but it turned out he was working on his own
 to correct in spite of the continuous request from both me and our project supervisor... Not to mention the fact that his code is a complete
 and incomprehensible mess.
 
-As a result, the final part of the report is disaster that barely makes any sense and therefore I'm only sharing my part of the
-code.
+As a result, the final part of the report is a disaster that barely makes any sense and therefore I'm only sharing my part of the
+code and report.
 
 ---
 What he should've done is using the information that we were provided about the state of the crops to show how the method proposed was better at
