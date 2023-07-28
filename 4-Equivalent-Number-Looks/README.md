@@ -1,1 +1,5 @@
-The Equivalent Number of looks should result to be around 9 or 10 in this specific case.
+Read the report file to understand this step.
+
+Uniform region chosen:
+
+![immagine](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/assets/90435131/3f4cbdf7-e849-4cdf-87a3-66e434b46ec7)
