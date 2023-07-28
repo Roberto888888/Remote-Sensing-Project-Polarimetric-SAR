@@ -3,7 +3,8 @@ We compute -2ρlnQ for each pixel (so we can show this as a gray-scale image). F
 - White areas represent changes
 
 ---
-THIS IS IMPORTANT!!!
+# THIS IS IMPORTANT!!!
+
 To choose a threshold to create this binary image: The distribution of -2ρlnQ follows a χ2 distribution. If we select a no change area (known from the description of crops) and draw an histogram we should observe that:
 
 ![immagine](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/assets/90435131/4dcef14a-db7e-467d-8489-4b75a1c1deb8)
