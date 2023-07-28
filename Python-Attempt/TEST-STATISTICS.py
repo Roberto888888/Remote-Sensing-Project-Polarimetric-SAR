@@ -40,7 +40,7 @@ lnQ = ENL*(6*np.log(2) + np.log(Y) + np.log(X) - 2*np.log(XpY))
 #      No changes distribution   
 ########################################
 
-rho = 1 - (17/18)*(1.5*ENL) 
+rho = 1 - (17/18)*(1.5/ENL) 
 T = - 2*rho*lnQ 
 
 plt.figure('Changes', figsize=(10,10))
