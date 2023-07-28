@@ -1,6 +1,6 @@
 We compute -2ρlnQ for each pixel (so we can show this as a gray-scale image). From this we have to create a binary image where:  
-- Black Areas represent no changes
-- White areas represent changes
+- Black pixels represent no changes
+- White pixels represent changes
 
 ---
 # <ins>THIS IS IMPORTANT!!!</ins>
