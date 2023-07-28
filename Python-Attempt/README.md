@@ -11,21 +11,21 @@ The <ins>colour coded images</ins> kind of look the same but that's not a reliab
 
 Matlab:
 
-![]()
+![](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/blob/main/Python-Attempt/RGB%20Coded%20Site%20data%20(Not%20Filtered).png)
 
 Python:
 
-![]()
+![](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/blob/main/Python-Attempt/RGB%20Coded%20Site%20data%20(Not%20Filtered)%20-%20Python.png)
 
 In the test statistic image we can already observe differences, but again it's not sure whether that depends on the displaying functions or not:
 
 Matlab:
 
-![]()
+![](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/blob/main/Python-Attempt/lnQ.bmp)
 
 Python:
 
-![]()
+![](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/blob/main/Python-Attempt/-2plnQ.png)
 
 The histogram for a no change region looks different and this starts to be concerning:
 
