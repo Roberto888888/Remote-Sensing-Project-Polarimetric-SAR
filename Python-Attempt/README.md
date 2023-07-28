@@ -1,4 +1,4 @@
-This is an attempt I made a few years later to complete the same project in Python but it didn't work.
+![immagine](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/assets/90435131/d4280cc3-dc07-4712-9619-84e0fdcdd57a)This is an attempt I made a few years later to complete the same project in Python but it didn't work.
 
 NOTE: I didn't perform despeckling in this case.
 
@@ -35,6 +35,6 @@ Matlab:
 
 Python:
 
-![]()
+![immagine](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/assets/90435131/faed920e-996a-4500-9db3-1886d93e2349)
 
 I cannot compare the value of the threshold that I was getting in Matlab because I don't have Matlab available now but in Python the binary image that I get is almost completely black, so it doesn't work.
