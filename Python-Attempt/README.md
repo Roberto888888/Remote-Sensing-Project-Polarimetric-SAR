@@ -3,3 +3,38 @@ This is an attempt I made a few years later to complete the same project in Pyth
 NOTE: I didn't perform despeckling in this case.
 
 NOTE: I used a different part of the dataset (specifically I compared data for March and May rather than March and April, but this doesn't change the substance that it doesn't work as it should...)
+
+---
+# RESULTS
+
+The <ins>colour coded images</ins> kind of look the same but that's not a reliable indicator:
+
+Matlab:
+
+![]()
+
+Python:
+
+![]()
+
+In the test statistic image we can already observe differences, but again it's not sure whether that depends on the displaying functions or not:
+
+Matlab:
+
+![]()
+
+Python:
+
+![]()
+
+The histogram for a no change region looks different and this starts to be concerning:
+
+Matlab:
+
+![]()
+
+Python:
+
+![]()
+
+I cannot compare the value of the threshold that I was getting in Matlab because I don't have Matlab available now but in Python the binary image that I get is almost completely black, so it doesn't work.
