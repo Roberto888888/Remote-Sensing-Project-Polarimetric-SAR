@@ -4,6 +4,10 @@ import numpy as np
 # Function to read the off-diagonal elements in the covariance matrices
 # NOTE: These are COMPLEX numbers
 
+# NOTE: In Python I can't simply read float32 like in Matlab so I have to read
+#       '>f' (big endian floating point). The error may be here but I tried other
+#       options like cast or using the numpy types and they too don't work.
+
 def readCross( fileName ):
     with open(fileName + '_lhhhv' , 'rb') as fin:
         hhhv0 = np.fromfile(fin , dtype = '>f').reshape((-1 , 2)).T
