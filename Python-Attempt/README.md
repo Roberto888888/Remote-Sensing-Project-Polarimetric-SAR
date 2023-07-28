@@ -1,4 +1,4 @@
-![immagine](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/assets/90435131/d4280cc3-dc07-4712-9619-84e0fdcdd57a)This is an attempt I made a few years later to complete the same project in Python but it didn't work.
+This is an attempt I made a few years later to complete the same project in Python but it didn't work.
 
 NOTE: I didn't perform despeckling in this case.
 
@@ -31,7 +31,7 @@ The histogram for a no change region looks different and this starts to be conce
 
 Matlab:
 
-![]()
+![](https://github.com/Roberto888888/Remote-Sensing-Project-Polarimetric-SAR/blob/main/Python-Attempt/distr.bmp)
 
 Python:
 
