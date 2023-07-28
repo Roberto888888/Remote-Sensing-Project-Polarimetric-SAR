@@ -42,3 +42,13 @@ HH3, HV3, VV3 = readMain('fl064');
 HH4, HV4, VV4 = readMain('fl065');
 HHHV3, HHVV3, HVVV3 = readCross('fl064')
 HHHV4, HHVV4, HVVV4 = readCross('fl065')
+
+# Check that everybody worked correctly:
+#These should print:
+# ((1048576,), (1048576,), (1048576,), dtype('>f4'))
+# And
+# ((1048576,), (1048576,), (1048576,), dtype('complex64'))
+HH3.shape, HV3.shape, VV3.shape, HH3.dtype
+
+HHHV3.shape, HHVV3.shape, HVVV3.shape, HHHV3.dtype
+
